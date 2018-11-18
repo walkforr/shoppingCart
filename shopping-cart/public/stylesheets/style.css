@@ -1,0 +1,19 @@
+.thumbnail img {
+    max-height: 150px;
+}
+
+.thumbnail .description {
+    color: #7f7f77;
+}
+
+/* .btn {
+    background-color: rgb(255, 255, 255);
+    border-color: #7f7f77;
+    color: black;
+}
+
+.btn:hover {
+    background-color: #f0f0f0;
+    color: black;
+    border-color: #7f7f77;
+} */
